@@ -46,6 +46,11 @@ Installed with python 3.9
 pip install -r requirements.txt
 ```
 
+Ensure the files correlated to [Side model weights](https://drive.google.com/drive/folders/1QdxrYnelt9poi45eLT5xgObihDRb_OtV) are downloaded and stored in the root directory of:
+```
+./side_model
+```
+
 ### 2. Reproduction Steps
 
 Follow the execution order below to reproduce results:
