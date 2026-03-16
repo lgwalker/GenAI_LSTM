@@ -73,6 +73,7 @@ All generated artifacts are organized within the `dataset/` directory and the ro
 | Cloned Repositories    | `dataset/java_repos/`                                             |
 | Raw Text Splits        | `dataset/summarization/{train,val,test}_{code,summary}.txt`       |
 | Tokenized Tensors      | `dataset/summarization/{train,val,test}_{code,summary}.pt`        |
+| Embeddings Scripts     | `get_codet5_embeddings.py`                                        |
 | Best Model Checkpoint  | `best_lstm_model.pt`                                              |
 | Final Predictions      | `assignment2_predictions.json`                                    |
 
